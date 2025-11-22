@@ -1,0 +1,1 @@
+print("This is Local Automation Script")
